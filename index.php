@@ -34,7 +34,7 @@ p {line-height: 2}
   <div class="w3-bar w3-white w3-center w3-padding w3-opacity-min w3-hover-opacity-off">
     <a href="#home" style="width:25%" class="w3-bar-item w3-button">Home</a>
     <a href="#us" style="width:25%" class="w3-bar-item w3-button">About</a>
-    <a href="#wedding" style="width:25%" class="w3-bar-item w3-button">Contact</a>
+    <a href="https://www.instagram.com/kitabacadotco/" target='new' style="width:25%" class="w3-bar-item w3-button">Contact</a>
     <a href="#rsvp" style="width:25%" class="w3-bar-item w3-button w3-hover-black">Feedback</a>
   </div>
 </div>
